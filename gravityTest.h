@@ -1,0 +1,6 @@
+#ifndef PRACTICE_GRAVITYTEST_H
+#define PRACTICE_GRAVITYTEST_H
+
+void gravityTest();
+
+#endif //PRACTICE_GRAVITYTEST_H

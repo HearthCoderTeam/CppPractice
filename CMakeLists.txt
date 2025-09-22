@@ -3,4 +3,7 @@ project(practice)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(practice main.cpp)
+add_executable(practice main.cpp
+        gravityTest.cpp
+        mathConstants.h
+        gravityTest.h)
